@@ -23,6 +23,5 @@ Comprehensive **Smart Campus Network** implementing:
 |---------|--------|-------------|
 | Network Hierarchy | ✅ Complete | Core/Distribution/Access layers |
 | IoT Gateway | ✅ Complete | Centralized IoT management |
-| Face Detection | ✅ Complete | YOLO v8 real-time processing |
 | Security | ✅ Complete | IPS + Firewall + ACLs |
 | Redundancy | ✅ Complete | HSRP + LACP |
